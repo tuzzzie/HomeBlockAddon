@@ -10,7 +10,6 @@ public class TownPreSetHomeBlockListener implements Listener {
     private final FileConfiguration config;
 
     public TownPreSetHomeBlockListener(FileConfiguration config) {
-
         this.config = config;
     }
 
